@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../styles/main.scss",
+        "../styles/0-helpers/_variables.scss",
+        "../styles/0-helpers/_mixins.scss",
+        "../styles/1-base/_global.scss",
+        "../styles/1-base/_reset.scss",
+        "../styles/1-base/_shame.scss",
+        "../styles/1-base/_typography.scss",
+        "../styles/4-pages/_home.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
