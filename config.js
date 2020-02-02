@@ -12,17 +12,21 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'My Brainfarts',
       path: '/'
     },
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // },
+    // {
+    //   label: 'Arham Labs',
+    //   path: 'https://arhamlabs.com'
+    // }
   ],
   author: {
     name: 'Varun Murkar',
