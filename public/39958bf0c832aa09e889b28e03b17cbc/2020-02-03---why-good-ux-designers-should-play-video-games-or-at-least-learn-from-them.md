@@ -1,9 +1,9 @@
 ---
-title: Why Good UX Designers Should Play Video Games - or at least, learn from them (Part 1)
+title: Why Good UX Designers Should Play Video Games - or at least, learn from them
 date: "2020-02-03T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-1"
+slug: "why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them"
 category: "Product Design"
 tags:
   - "Product Design"
@@ -62,17 +62,19 @@ Heuristics extend beyond “Delete should be red”. These design patterns, thro
 
 This plays out in 2 parts. _Setting_ expectations, and then _ensuring_ those expectations are met every time.
 
-### Immersive Gameplay / Setting expectations
+### Immersive Gameplay / Consistency
 
 So you see, consistency goes beyond "all my buttons are the same size". Your product has to _behave_ consistenty.
 
-Imagine you're playing Skyrim, a game about dragons and magic set in a medieval pseudo-Nordic world, when suddenly, Thomas the Tank Engine rolls up in the hood. 
+Imagine you're playing Skyrim, a game about dragons set in a medieval pseudo-Nordic world, when suddenly, Thomas the Tank Engine rolls up in the hood. 
 
 That’s what the gaming nerds call immersion-breaking. 
 
 The example is exaggerated, but you get the point. 
 
-### Emergent Gameplay / Consistent Behaviour 
+For a counter to this example, look at a game like Deus Ex/Mass Effect.
+
+### Emergent Gameplay / Expected Behaviour 
 
 When left to their own devices, players will form their own strategies/tactics for achieving their objective. For example, whether to clear out this next enemy camp like Rambo or like a stealthy ninja. 
 
@@ -84,21 +86,16 @@ This behaviour is more or less consistent throughout the game. This allows playe
 
 Now, imagine if an “Add” button in an app behaved differently on every other screen. Your user wouldn’t know what to expect, and would be unpleasantly surprised every single time. Until they eventually get too frustrated, uninstall your app, and if they’re having an extra-bad day, also give you a 1-star rating. 
 
-Look at Excel. It doesn't create "user flows" for every imaginable workflow. It gives you the building blocks. Ensures they behave consistently so you know what they're going to do. And then like a good Desi dad, sets you on your way to do your thing with that knowledge. 
-
-Sure, you won't see it brag about winning a design award. But that's the thing. Good design is invisible. It just works. 
-
 ## In Part 2 --
 
-This would end up being a loooooong read. So I decided to split this into parts. That way, if I figure out more things from video games in the future, I can just add another part (scalability, eh?) 
-![showing off like a coolio](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/223/dancer_1f483.png)
+This would end up being a loooooong read. So I decided to split this into parts. That way, if I figure out more things from video games in the future, I can just add another part (scalability, eh?) ![showing off like a coolio](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/223/dancer_1f483.png)
 In Part 2, let's have a look at --
 - How video games protect players from themselves
 - Positive and negative feedback loops
-- Why Uncharted doesn't need a compass
+- Why uncharted doesn't need a compass
 - Coyote Time
 
-[//]: # "[Continue reading Part 2](2020-02-03---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them.md)"
+[Continue reading Part 2](2020-02-03---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them.md)
 
 [//]: # "Coyote time / tolerating user errors (clicking accuracy, undo buttons in gmail, etc)"
 

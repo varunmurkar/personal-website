@@ -95,10 +95,10 @@ This would end up being a loooooong read. So I decided to split this into parts.
 In Part 2, let's have a look at --
 - How video games protect players from themselves
 - Positive and negative feedback loops
-- Why Uncharted doesn't need a compass
+- Why uncharted doesn't need a compass
 - Coyote Time
 
-[//]: # "[Continue reading Part 2](2020-02-03---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them.md)"
+[Continue reading Part 2](2020-02-03---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them.md)
 
 [//]: # "Coyote time / tolerating user errors (clicking accuracy, undo buttons in gmail, etc)"
 

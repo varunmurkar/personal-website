@@ -1,9 +1,9 @@
 ---
-title: Why Good UX Designers Should Play Video Games - or at least, learn from them (Part 1)
+title: Why Good UX Designers Should Play Video Games - or at least, learn from them
 date: "2020-02-03T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-1"
+slug: "why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them"
 category: "Product Design"
 tags:
   - "Product Design"
@@ -90,15 +90,14 @@ Sure, you won't see it brag about winning a design award. But that's the thing. 
 
 ## In Part 2 --
 
-This would end up being a loooooong read. So I decided to split this into parts. That way, if I figure out more things from video games in the future, I can just add another part (scalability, eh?) 
-![showing off like a coolio](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/223/dancer_1f483.png)
+This would end up being a loooooong read. So I decided to split this into parts. That way, if I figure out more things from video games in the future, I can just add another part (scalability, eh?) ![showing off like a coolio](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/223/dancer_1f483.png)
 In Part 2, let's have a look at --
 - How video games protect players from themselves
 - Positive and negative feedback loops
-- Why Uncharted doesn't need a compass
+- Why uncharted doesn't need a compass
 - Coyote Time
 
-[//]: # "[Continue reading Part 2](2020-02-03---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them.md)"
+[Continue reading Part 2](2020-02-03---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them.md)
 
 [//]: # "Coyote time / tolerating user errors (clicking accuracy, undo buttons in gmail, etc)"
 
