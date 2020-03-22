@@ -47,7 +47,7 @@ Speaking of which --
 
 Let’s look at Half Life 2 as another example. Every time a new enemy is introduced, the game first shows it to you from a safe distance, with the means to dispose of it. 
 
-For example, when you first encounter the zombies, you find a sawblade blocking your way. As you pick it up using your Gravity Gun (the game already having shown you how to do that), a zombie shambles in front of you unexpectedly. You reflexively press the trigger, and the sawblade launches ahead, chopping the zombie in half. That’s the Petyr Baelish level of manipulation through which the game shows you the best way of dealing with the zombies.
+For example, right before you first encounter the zombies, you enter a room to see a sawblade stuck in the opposite wall, pinning a zombie chopped in half with it. As you pick up a sawblade to move it out of your way using your Gravity Gun (the game already having shown you how to do that), a zombie shambles in front of you unexpectedly. You reflexively press the trigger, and the sawblade launches ahead, chopping the zombie in half. That’s the Petyr Baelish level of manipulation through which the game shows you the best way of dealing with the zombies.
 
 ## Heuristics (a.k.a. expectations)
 

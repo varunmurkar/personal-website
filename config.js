@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Varun Murkar - Product Designer',
   subtitle: 'Product Designer. Brokering peace between designers and developers, one hand-off at a time.',
-  copyright: '© All rights reserved.',
+  copyright: '© 2020 Varun Murkar. All rights reserved.',
   disqusShortname: '',
   postsPerPage: 10,
   googleAnalyticsId: 'UA-120817832-1',

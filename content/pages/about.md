@@ -4,10 +4,18 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hi, you curious little rebel. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Seriously, who reads an About page? (flattered though `･ﾟ✧(ꈍᴗꈍ)✧･ﾟ` )
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I started out as a freelance web developer. In most cases, design-driven development was yet unheard of. In the cases there was *some* design influence, since web designers at the time yet came from a print background, most of my time was spent in fixing the designs to work in code/for displays.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Cue me realising that I'm actually enjoying designing interfaces more. 
+
+From simple landing pages to full-fledged websites to complete applications, I learnt more by reverse engineering others' designs and understanding the why and how. 
+
+Nearly 8 years in, I work with banks, enterprises, and startups to build their product experiences into something that helps the brand establish a meaningful relationship with its customers. 
+
+As a product designer, I'm involved with things at a client's business level, the overall strategy, data & analytics, service design, UX/UI, and engineering. It's taxing, but in a very rewarding kind of way.
+
+And here I am, sharing things I've learnt and am learning along the way. :)
