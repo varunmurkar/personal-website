@@ -10,7 +10,7 @@ tags:
   - "Video Games"
   - "UX Design"
 description: "How you can learn to make your designs more forgiving, reinforce behaviours you want, and how to not make your application into a maze."
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-2.jpg"
 ---
 
 *Read [Part 1 here.](2020-02-03---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them.md)*

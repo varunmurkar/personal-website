@@ -10,7 +10,7 @@ tags:
   - "Video Games"
   - "UX Design"
 description: "Super Mario, Halo, Uncharted, and more. Video games have often come up with the most intriguing solutions for user experience. Here's what we can learn from them, beyond 'grenades go BOOM'."
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-1.jpg"
 ---
 
 Okay, I don’t mean like, to kill time while Adobe XD updates. I mean, learn from them. 
