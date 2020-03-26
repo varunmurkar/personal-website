@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://varunmukar.netlify.com',
+  url: 'https://varunmukar.com',
   pathPrefix: '/',
   title: 'Varun Murkar - Product Designer',
   subtitle: 'Product Designer. Brokering peace between designers and developers, one hand-off at a time.',
-  copyright: '© 2020 Varun Murkar. All rights reserved.',
+  copyright: '© 2020. All rights reserved.',
   disqusShortname: '',
   postsPerPage: 10,
   googleAnalyticsId: 'UA-120817832-1',
