@@ -13,8 +13,9 @@ $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 
 // Typographic
-$typographic-font-family: -apple-system, BlinkMacSystemFont, "IBM Plex Sans", "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,600&display=swap');
+$typographic-font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+@import url('/static/fonts/inter.css');
+// @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,600&display=swap');
 
 $typographic-root-font-size: 100;
 $typographic-base-font-size: 16px;
