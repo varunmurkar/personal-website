@@ -92,6 +92,7 @@ Sure, you won't see it brag about winning a design award. But that's the thing. 
 
 This would end up being a loooooong read. So I decided to split this into parts. That way, if I figure out more things from video games in the future, I can just add another part (scalability, eh?) 
 ![showing off like a coolio](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/223/dancer_1f483.png)
+
 In Part 2, let's have a look at --
 - How video games protect players from themselves
 - Positive and negative feedback loops
