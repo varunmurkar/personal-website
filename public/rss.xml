@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Varun Murkar - Product Designer]]></title><description><![CDATA[Product Designer. Brokering peace between designers and developers, one hand-off at a time.]]></description><link>https://varunmukar.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 06 Sep 2020 12:26:05 GMT</lastBuildDate><item><title><![CDATA[Why Good UX Designers Should Play Video Games - or at least, learn from them (Part 2)]]></title><description><![CDATA[How you can learn to make your designs more forgiving, reinforce behaviours you want, and how to not make your application into a maze.]]></description><link>https://varunmukar.com/posts/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-2</link><guid isPermaLink="false">https://varunmukar.com/posts/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-2</guid><pubDate>Sun, 22 Mar 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Read &lt;a href=&quot;2020-02-03---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them.md&quot;&gt;Part 1 here.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Varun Murkar - Product Designer]]></title><description><![CDATA[Product Designer. Brokering peace between designers and developers, one hand-off at a time.]]></description><link>https://varunmukar.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Sep 2020 20:43:29 GMT</lastBuildDate><item><title><![CDATA[Why Good UX Designers Should Play Video Games - or at least, learn from them (Part 2)]]></title><description><![CDATA[How you can learn to make your designs more forgiving, reinforce behaviours you want, and how to not make your application into a maze.]]></description><link>https://varunmukar.com/posts/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-2</link><guid isPermaLink="false">https://varunmukar.com/posts/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-2</guid><pubDate>Sun, 22 Mar 2020 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Read &lt;a href=&quot;/posts/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-1&quot;&gt;Part 1 here.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In the last part we saw what we can learn from the way video games onboard users, introduce new elements, and create predictable patterns which users can use to make the most of their experience.&lt;/p&gt;
 &lt;p&gt;Let’s look at a few more of these nuggets.&lt;/p&gt;
 &lt;h2 id=&quot;skill-curves--casual-users-vs-power-users&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#skill-curves--casual-users-vs-power-users&quot; aria-label=&quot;skill curves  casual users vs power users permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Skill Curves / Casual Users vs Power Users&lt;/h2&gt;
@@ -32,7 +32,47 @@ Is your user making a purchase? Show them an overview of the order with the deta
 &lt;p&gt;But, the game doesn’t punish you for going Rambo. Sure, it’ll make things difficult. You die pretty easily if shot. But it won’t instantly fail the mission if you’re detected (looking at you, Assassin’s Creed, with your annoying tailing missions).&lt;/p&gt;
 &lt;p&gt;Instead, the game &lt;em&gt;rewards&lt;/em&gt; you for being stealthy, and playing it the way it was meant to be. This comes in the form of a higher score, unlockables, and achievements.&lt;/p&gt;
 &lt;p&gt;Positive reinforcement. Neat, eh?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/media/pavlov-approves.jpg&quot; alt=&quot;Pavlov Approves&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 500px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a9d80aff84c922986fbfaa81903f693b/41099/pavlov-approves.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 102.50000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAVABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHPTgkqgbXDlB//xAAaEAACAwEBAAAAAAAAAAAAAAABAgADEQQS/9oACAEBAAEFAqsNvUBsZipsusebMVocsnkA/wD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAeEAABAwQDAAAAAAAAAAAAAAABABARAhIhIlGRsf/aAAgBAQAGPwIArFMMIWfG2B7W1xgct//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExUWHh/9oACAEBAAE/IQa2LCGMiMqhoVyAJuTQITqkvG7kfmLgXXs//9oADAMBAAIAAwAAABBjBwD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAeEAEBAAICAgMAAAAAAAAAAAABEQAxIUFRYXGRof/aAAgBAQABPxAzUSeXr9xJeeF4j418ZplsjY9j1jeCqyL7cuELszWCYkPqOdcrAWXVwZvJQVQz/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a9d80aff84c922986fbfaa81903f693b/8ac56/pavlov-approves.webp 240w,
+/static/a9d80aff84c922986fbfaa81903f693b/d3be9/pavlov-approves.webp 480w,
+/static/a9d80aff84c922986fbfaa81903f693b/b0a15/pavlov-approves.webp 500w&quot;
+          sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a9d80aff84c922986fbfaa81903f693b/09b79/pavlov-approves.jpg 240w,
+/static/a9d80aff84c922986fbfaa81903f693b/7cc5e/pavlov-approves.jpg 480w,
+/static/a9d80aff84c922986fbfaa81903f693b/41099/pavlov-approves.jpg 500w&quot;
+          sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/a9d80aff84c922986fbfaa81903f693b/41099/pavlov-approves.jpg&quot;
+          alt=&quot;Pavlov Approves&quot;
+          title=&quot;Pavlov Approves&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;What can we learn from this?&lt;/p&gt;
 &lt;p&gt;Encourage the behaviour you want, instead of discouraging the behaviour you don’t want. &lt;/p&gt;
 &lt;p&gt;Of course, there are right and wrong ways of doing this. You don’t want to be Candy Crush. I believe as designers we’re obligated to not use underhanded or unethical methods to get users to come back again and again. You want to make something engaging, not addictive. But that’s a topic for another time.&lt;/p&gt;
@@ -41,8 +81,88 @@ Is your user making a purchase? Show them an overview of the order with the deta
 &lt;h2 id=&quot;why-uncharted-doesnt-need-a-compass&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#why-uncharted-doesnt-need-a-compass&quot; aria-label=&quot;why uncharted doesnt need a compass permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Why Uncharted doesn’t need a compass&lt;/h2&gt;
 &lt;p&gt;Uncharted is a game where you traverse ancient ruins and scenery to get to places and find things. The game, however, doesn’t tell you where to go.&lt;/p&gt;
 &lt;p&gt;Uncharted, the Half Life series, and The Last of Us are notorious for not including a map or compass or waypoint markers on the screen. And yet, you’ll know. Check this out:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/media/guiding-using-light.jpg&quot; alt=&quot;Guiding using light&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/media/guiding-using-composition.jpg&quot; alt=&quot;Guiding using composition&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 801px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d38e91c15524427efba910aa01c02ac3/d5834/guiding-using-light.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 27.500000000000004%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHIoZsgf//EABkQAAIDAQAAAAAAAAAAAAAAAAASAQITIf/aAAgBAQABBQJ+aTUY/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BZ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAABEBFB/9oACAEBAAY/AhVqj//EABgQAQADAQAAAAAAAAAAAAAAAAEAESFR/9oACAEBAAE/IbZTe3FPByJdpn//2gAMAwEAAgADAAAAEI/v/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxDErf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EIj/xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAhMVFhkf/aAAgBAQABPxBisGvDqYtOFSNPOL19TP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/d38e91c15524427efba910aa01c02ac3/8ac56/guiding-using-light.webp 240w,
+/static/d38e91c15524427efba910aa01c02ac3/d3be9/guiding-using-light.webp 480w,
+/static/d38e91c15524427efba910aa01c02ac3/99a1d/guiding-using-light.webp 801w&quot;
+          sizes=&quot;(max-width: 801px) 100vw, 801px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/d38e91c15524427efba910aa01c02ac3/09b79/guiding-using-light.jpg 240w,
+/static/d38e91c15524427efba910aa01c02ac3/7cc5e/guiding-using-light.jpg 480w,
+/static/d38e91c15524427efba910aa01c02ac3/d5834/guiding-using-light.jpg 801w&quot;
+          sizes=&quot;(max-width: 801px) 100vw, 801px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/d38e91c15524427efba910aa01c02ac3/d5834/guiding-using-light.jpg&quot;
+          alt=&quot;Guiding using light&quot;
+          title=&quot;Guiding using light&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 800px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cdecdb88aecc0d3d7fac89b89428bf92/4b190/guiding-using-composition.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 27.500000000000004%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHHIigR/8QAFhABAQEAAAAAAAAAAAAAAAAAASIA/9oACAEBAAEFAhhY3//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAEFAQAAAAAAAAAAAAAAAAEAECExUWH/2gAIAQEABj8CEV1DG//EABgQAQEBAQEAAAAAAAAAAAAAAAEhABFh/9oACAEBAAE/ISmislUhjjr7v//aAAwDAQACAAMAAAAQBD//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhMf/aAAgBAwEBPxCWbbP/xAAWEQEBAQAAAAAAAAAAAAAAAAARAAH/2gAIAQIBAT8QMkv/xAAaEAEBAAIDAAAAAAAAAAAAAAABEQAxQXHR/9oACAEBAAE/EElURHy9YSgQBsJTzFZUV27z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/cdecdb88aecc0d3d7fac89b89428bf92/8ac56/guiding-using-composition.webp 240w,
+/static/cdecdb88aecc0d3d7fac89b89428bf92/d3be9/guiding-using-composition.webp 480w,
+/static/cdecdb88aecc0d3d7fac89b89428bf92/d00b9/guiding-using-composition.webp 800w&quot;
+          sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/cdecdb88aecc0d3d7fac89b89428bf92/09b79/guiding-using-composition.jpg 240w,
+/static/cdecdb88aecc0d3d7fac89b89428bf92/7cc5e/guiding-using-composition.jpg 480w,
+/static/cdecdb88aecc0d3d7fac89b89428bf92/4b190/guiding-using-composition.jpg 800w&quot;
+          sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/cdecdb88aecc0d3d7fac89b89428bf92/4b190/guiding-using-composition.jpg&quot;
+          alt=&quot;Guiding using composition&quot;
+          title=&quot;Guiding using composition&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Courtesy of &lt;a href=&quot;https://www.youtube.com/watch?v=k70_jvVOcG0&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Game Maker’s Toolkit&lt;/a&gt;. Love the channel.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -102,4 +222,5 @@ In Part 2, let’s have a look at —&lt;/p&gt;
 &lt;li&gt;Why Uncharted doesn’t need a compass&lt;/li&gt;
 &lt;li&gt;Coyote Time&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;/posts/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-2&quot;&gt;Continue reading Part 2&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;</content:encoded></item></channel></rss>

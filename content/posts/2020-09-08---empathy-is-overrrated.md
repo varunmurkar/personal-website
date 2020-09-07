@@ -45,13 +45,5 @@ These design decisions come from designing for the task users are trying to do, 
 Slapping a cute emoji on your UI won't solve your problem. 
 
 Share your thoughts in the comments!
- 
-
-
-[//]: # "[Continue reading Part 2](2020-02-03---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them.md)"
-
-[//]: # "Coyote time / tolerating user errors (clicking accuracy, undo buttons in gmail, etc)"
-
-
 
 ---
