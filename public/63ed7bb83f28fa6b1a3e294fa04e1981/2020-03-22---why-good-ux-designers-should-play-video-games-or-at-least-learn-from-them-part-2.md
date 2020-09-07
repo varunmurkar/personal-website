@@ -13,7 +13,7 @@ description: "How you can learn to make your designs more forgiving, reinforce b
 socialImage: "/media/2020-03/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-2.jpg"
 ---
 
-*Read [Part 1 here.](/posts/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-1)*
+*Read [Part 1 here.](2020-02-03---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them.md)*
 
 In the last part we saw what we can learn from the way video games onboard users, introduce new elements, and create predictable patterns which users can use to make the most of their experience.
 

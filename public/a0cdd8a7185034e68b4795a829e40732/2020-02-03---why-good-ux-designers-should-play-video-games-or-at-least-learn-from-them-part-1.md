@@ -98,6 +98,6 @@ In Part 2, let's have a look at --
 - Why Uncharted doesn't need a compass
 - Coyote Time
 
-[Continue reading Part 2](/posts/why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-2)
+[Continue reading Part 2](2020-03-22---why-good-ux-designers-should-play-video-games-or-at-least-learn-from-them-part-2.md)
 
 ---
