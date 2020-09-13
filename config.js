@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://varunmukar.com',
+  url: 'https://varunmurkar.com',
   pathPrefix: '/',
   title: 'Varun Murkar - Product Designer',
   subtitle: 'Product Designer. Brokering peace between designers and developers, one hand-off at a time.',
