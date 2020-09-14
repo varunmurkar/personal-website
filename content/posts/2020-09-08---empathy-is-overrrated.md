@@ -1,9 +1,9 @@
 ---
-title: Empathy is overrated.
+title: Empathetic Design is overrated
 date: "2020-09-13T13:30:00.121Z"
 template: "post"
 draft: false
-slug: "empathy-is-overrated"
+slug: "empathetic-design-is-overrated"
 category: "Design Thinking"
 tags:
   - "Human-centered Design"
