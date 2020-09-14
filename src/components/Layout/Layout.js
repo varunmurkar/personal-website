@@ -33,7 +33,8 @@ const Layout = ({
         <meta property="og:image" content={metaImageUrl} />
         <meta property="og:image:secure_url" content={metaImageUrl} />
         <meta property="og:description" content={description} />
-        <meta property="og:author" content="Varun Murkar" />
+        <meta property="og:type" content="article" />
+        <meta property="article:author" content="Varun Murkar" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
