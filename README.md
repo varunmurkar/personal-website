@@ -1,8 +1,10 @@
 <h4 align="center">
-  A minimal, lightweight and mobile-first starter for creating blogs uses <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
+  A minimal, lightweight and mobile-first blog using <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
 </h4>
-
+ 
+ <p align="center">
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d940c754-11d9-4f87-a8ca-30e577c3ab79/deploy-status)](https://app.netlify.com/sites/varunmurkar/deploys)
+ </p>
 
 ## Features
 + [Lost Grid](http://lostgrid.org).
@@ -19,7 +21,7 @@
 
 #### Create Gatsby site
 
-Use the Gatsby CLI to create a new site, specifying the Lumen starter.
+Use the Gatsby CLI to get started.
 
 ```sh
 # Create a new Gatsby site 

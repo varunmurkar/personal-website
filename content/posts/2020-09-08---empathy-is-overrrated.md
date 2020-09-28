@@ -46,7 +46,7 @@ Let's do another thought exercise:
 - Can you, as (for example) a Tier-1 city educated 25-year-old designer, really understand or feel what a 65-year-old Chartered Accountant from Indore is experiencing? 
 - Would you have the context and life experiences and observations required to be able to objectively and accurately anticipate that?
 - Will you really be able to apply the empathetic understanding from 1, 5, 10, or even 20 people to the thousands of potential users to the application?
-- If not, will you be able to empathise all the thousands or millions of users of the applications you're desiging?
+- If not, will you be able to empathise all the thousands or millions of users of the applications you're designing?
 
 The concept of personas is often touted as a solution to this problem. You build out a hypothetical person with some assumed attributes to figure out how to design for this person. If done right, this can typically help in building brand identities.
 Thing is, these attributes don't really help in building a solution to a user's problem. Because:
@@ -63,7 +63,7 @@ Empathy is not a warm and fuzzy illustration in your onboarding or success scree
 
 "Don't put frequently used items hidden under 3 clicks" is not empathy. It's just common sense. Even a psychopath without empathy can tell you that.
 
-Unfortunately, empathy in UX design has take on a more branding/marketing paradigm in how it _wants_ to make its users _feel_. In the name of "empathetic design", we're seeing more and more designs throwing out basics of usability and hueristics for the purpose of generating a certain "feel" (all those times you say a UI with massive, barely visible text, oddly placed buttons, hopelessly abstract icons, etc.). This is made worse by the desire to make these "Dribbble-worthy" shots for 'aesthetics', rather than showing any UX prowess. A part of this comes from businesses not having the required design education to understand UX vs a fancy UI.
+Unfortunately, empathy in UX design has take on a more branding/marketing paradigm in how it _wants_ to make its users _feel_. In the name of "empathetic design", we're seeing more and more designs throwing out basics of usability and hueristics for the purpose of generating a certain "feel" (all those times you see a UI with massive, barely visible text, oddly placed buttons, hopelessly abstract icons, etc.). This is made worse by the desire to make these "Dribbble-worthy" shots for 'aesthetics', rather than showing any UX prowess. A part of this comes from businesses not having the required design education to understand UX vs a fancy UI.
 
 No matter what you do, you're not going to know and understand exactly what someone else thinks and feels. 
 You can, at best, understand how 1 person you're designing for is going to feel.
@@ -103,7 +103,7 @@ The cute puppy mascot which made me go "aww" on the error page is ultimately use
 
 These design decisions come from designing for the task users are trying to do, and improving your designs based on usage patterns, not on what you think they feel. Through iterations based on the understandings from this data, you'll eventually be able to get to a product that works for the people using it. 
 
-Data will tell you what users are doing. Reasona and empathy will help you understand why they're doing it.
+Data will tell you what users are doing. Reason and empathy will help you understand why they're doing it.
 
 For example: You made an exit modal for a massive discount or some other benefit, but no one's using it. The layout is perfect, the colours are right. What's going wrong?
 
