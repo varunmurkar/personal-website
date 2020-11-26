@@ -1,119 +1,227 @@
-<h4 align="center">
-  A minimal, lightweight and mobile-first blog using <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>.
-</h4>
- 
+<p align="center">
+  <a href="https://minimal-blog.lekoarts.de">
+    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
+  </a>
+</p>
+<h1 align="center">
+  Gatsby Starter: Minimal Blog
+</h1>
+
  <p align="center">
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d940c754-11d9-4f87-a8ca-30e577c3ab79/deploy-status)](https://app.netlify.com/sites/varunmurkar/deploys)
  </p>
 
-## Features
-+ [Lost Grid](http://lostgrid.org).
-+ Syntax highlighting in code blocks using [PrismJS](http://prismjs.com).
-+ [Mobile-First](https://medium.com/@mrmrs_/mobile-first-css-48bc4cc3f60f) approach in development.
-+ Archive organized by tags and categories.
-+ Pagination support.
-+ [Netlify CMS](https://www.netlifycms.org) support.
-+ Google Analytics.
-+ Disqus Comments.
-+ [Flow](https://flow.org/) static type checking.
+<p align="center">
+  <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Minimal Blog is released under the 0BSD license." />
+  </a>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
+    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
+  </a>
+</p>
 
-## Quick Start
+Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting. Using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog).
 
-#### Create Gatsby site
+[**Demo Website**](https://minimal-blog.lekoarts.de)
 
-Use the Gatsby CLI to get started.
+Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
+
+## ✨ Features
+
+- MDX
+- Fully customizable through the usage of Gatsby Themes (and Theme UI)
+- Light Mode / Dark Mode
+- Typography driven, minimal style
+- Tags/Categories support
+- Code highlighting with [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) and [react-live](https://github.com/FormidableLabs/react-live) support. Also allows adding line numbers, line highlighting, language tabs, and file titles.
+- RSS Feed for blog posts
+- Google Analytics Support
+- SEO (Sitemap, OpenGraph tags, Twitter tags)
+- Offline Support & WebApp Manifest
+
+## 🚀 Getting Started
+
+1. **Create a Gatsby site.**
+
+Use the Gatsby CLI to create a new site, specifying this project
 
 ```sh
-# Create a new Gatsby site 
-gatsby new [folder name] https://github.com/varunmurkar/personal-website/
+gatsby new project-name https://github.com/LekoArts/gatsby-starter-minimal-blog
 ```
 
-#### Start Developing
+2. **Start developing.**
 
-Navigate into your new site’s directory and start it up.
+Navigate into your new site's directory and start it up.
 
 ```sh
-cd [folder name]
+cd project-name
 gatsby develop
 ```
 
-#### Open the source code and start editing!
+3. **Open the code and start customizing!**
 
 Your site is now running at `http://localhost:8000`!
 
-Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
+If you want to learn more about how you can use a Gatsby starter that is configured with a Gatsby theme, you can checkout this [shorter](https://www.gatsbyjs.org/docs/themes/using-a-gatsby-theme/) or [longer](https://www.gatsbyjs.org/tutorial/using-a-theme/) tutorial. The tutorials don't exactly apply to this starter however the concepts are the same.
 
-Open the development directory in your code editor of choice and edit `src/templates/index-template.js`. Save your changes and the browser will update in real time!
+## 📝 Using and modifying this starter
 
-## Deploy with Netlify
+**Important Note:** Please read the guide [Shadowing in Gatsby Themes](https://www.gatsbyjs.org/docs/themes/shadowing/) to understand how to customize the underlying theme!
 
-[Netlify](https://netlify.com) CMS can run in any frontend web environment, but the quickest way to try it out is by running it on a pre-configured starter site with Netlify. Use the button below to build and deploy your own copy of the repository:
+This starter creates a new Gatsby site that installs and configures the theme [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog).
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+Have a look at the theme's README and files to see what options are available and how you can shadow the various components including Theme UI. Generally speaking you will want to place your files into `src/@lekoarts/gatsby-theme-minimal-blog/` to shadow/override files. The Theme UI config can be configured by shadowing its files in `src/gatsby-plugin-theme-ui/`.
 
-After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete. Next, you’ll need to set up Netlify’s Identity service to authorize users to log in to the CMS.
+### Code Highlighting
 
-## Deploy to Github Pages
+Since the underlying theme ships with [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) and [react-live](https://github.com/FormidableLabs/react-live) certain additional features were added to code blocks. You can find an overview / usage example in the [example repository](https://github.com/LekoArts/gatsby-themes/tree/master/examples/minimal-blog/content/posts/fantastic-beasts-and-where-to-find-them/index.mdx)! If you want to change certain code styles or add additional language tabs, you need to shadow the file `src/@lekoarts/gatsby-theme-minimal-blog/styles/code.js`.
 
-To deploy to github pages, simply do the following:
+**Language tabs:**
 
-- Ensure that your `package.json` file correctly reflects where this repo lives
-- Change the `pathPrefix` in your `config.js`
-- Run the standard deploy command
+When you add a language (such as e.g. `js` or `javascript`) to the code block, a little tab will appear at the top left corner.
 
-```sh
-npm run deploy
+````
+```js
+// code goes here
+```
+````
+
+**Code titles:**
+
+You can display a title (e.g. the file path) above the code block.
+
+````
+```jsx:title=your-title
+// code goes here
+```
+````
+
+Or without a specific language:
+
+````
+```:title=your-title
+// code goes here
+```
+````
+
+**Line highlighting:**
+
+You can highlight single or multiple (or both) lines in a code block. You need to add a language.
+
+````
+```js {2,4-5}
+const test = 3
+const foo = 'bar'
+const harry = 'potter'
+const hermione = 'granger'
+const ron = 'weasley'
+```
+````
+
+**Hide line numbers:**
+
+If you want to hide line numbers you can either globally disable them (see Theme options) or on a block-by-block basis. You can also combine that with the other attributes.
+
+````
+```noLineNumbers
+// code goes here
+```
+````
+
+**react-live:**
+
+Add `react-live` to the code block (and render the component) to see a preview below it.
+
+````
+```js react-live
+const onClick = () => {
+  alert("You opened me");
+};
+render(<button onClick={onClick}>Alohomora!</button>);
+```
+````
+
+### Adding content
+
+#### Adding a new blog post
+
+New blog posts will be shown on the index page (the three most recent ones) of this theme and on the blog overview page. They can be added by creating MDX files inside `content/posts`. General setup:
+
+1. Create a new folder inside `content/posts`
+1. Create a new `index.mdx` file, and add the frontmatter
+1. Add images to the created folder (from step 1) you want to reference in your blog post
+1. Reference an image as your `banner` in the frontmatter
+1. Write your content below the frontmatter
+
+**Frontmatter reference:**
+
+```md
+---
+title: Introduction to "Defence against the Dark Arts"
+date: 2019-11-07
+description: Defence Against the Dark Arts (abbreviated as DADA) is a subject taught at Hogwarts School of Witchcraft and Wizardry and Ilvermorny School of Witchcraft and Wizardry.
+tags:
+  - Tutorial
+  - Dark Arts
+banner: ./defence-against-the-dark-arts.jpg
+---
 ```
 
+**The fields `description` and `banner` are optional!** If no description is provided, an excerpt of the blog post will be used. If no banner is provided, the default `siteImage` (from `siteMetadata`) is used.
 
-#### Access Locally
-```
-$ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
-$ cd [REPO_NAME]
-$ yarn
-$ npm run develop
-```
-To test the CMS locally, you'll need run a production build of the site:
-```
-$ npm run build
-$ gatsby serve
+The `date` field has to be written in the format `YYYY-MM-DD`!
+
+#### Adding a new page
+
+Additional pages can be created by placing MDX files inside `contents/pages`, e.g. an "About" or "Contact" page. You'll manually need to link to those pages, for example by adding them to the navigation (in `navigation` option of the theme). General instructions:
+
+1. Create a new folder inside `content/pages`
+1. Create a new `index.mdx` file, and add the frontmatter
+1. Write your content below the frontmatter
+1. Optionally add files/images to the folder you want to reference from the page
+
+**Frontmatter reference:**
+
+```md
+---
+title: About
+slug: "/about"
+---
 ```
 
-## Folder Structure
+#### Changing the "Hero" text
 
-```
-└── content
-    ├── pages
-    └── posts
-└── static
-    ├── admin
-    └── media
-└── src
-    ├── assets
-    │   └── scss
-    │       ├── base
-    │       └── mixins
-    ├── cms
-    │   └── preview-templates
-    ├── components
-    │   ├── Feed
-    │   ├── Icon
-    │   ├── Layout
-    │   ├── Page
-    │   ├── Pagination
-    │   ├── Post
-    │   │   ├── Author
-    │   │   ├── Comments
-    │   │   ├── Content
-    │   │   ├── Meta
-    │   │   └── Tags
-    │   └── Sidebar
-    │       ├── Author
-    │       ├── Contacts
-    │       ├── Copyright
-    │       └── Menu
-    ├── constants
-    ├── templates
-    └── utils
+To edit the hero text ("Hi, I'm Lupin...), create a file at `src/@lekoarts/gatsby-theme-minimal-blog/texts/hero.mdx` to edit the text.
 
-```
+#### Changing the "Projects" part
+
+To edit the projects part below "Latest posts", create a file at `src/@lekoarts/gatsby-theme-minimal-blog/texts/bottom.mdx` to edit the contents.
+
+### Change your `static` folder
+
+The `static` folder contains the icons, social media images and robots.txt. Don't forget to change these files, too!
+
+## 🤔 Questions or problems?
+
+Please open up an issue on the main repository: [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes). Thanks!
+
+## 🎓 Learning Gatsby
+
+Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's website](https://www.gatsbyjs.org/).
+
+### Themes
+
+- To learn more about Gatsby themes specifically, we recommend checking out the [theme docs](https://www.gatsbyjs.org/docs/themes/).
+
+### General
+
+- **For most developers, I recommend starting with the [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+
+- **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
+
+## 🌟 Supporting me
+
+Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
+
+Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts) or [GitHub Sponsor](https://github.com/sponsors/LekoArts)!
