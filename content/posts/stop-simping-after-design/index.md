@@ -4,7 +4,7 @@ author: Varun Murkar
 date: 2020-11-28
 excerpt: Trying not to turn this into a rant. But can everyone please stop putting 'Design' on a pedestal?
 hero: ./stop-simping-after-design.png
-# secret: true
+
 ---
 
 Over the last 5 years or so, design as a part of business has pretty much exploded. That's not to say it didn't exist earlier. Of course it did. But it wasn't as pervasive or valued in business as it has become. 
