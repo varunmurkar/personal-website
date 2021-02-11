@@ -47,11 +47,13 @@ This Japanese proverb essentially means that if something works without a proble
 
 Design as a business function has a deterministic scope. It does not concern itself with matters which are beyond what it can measurably affect. [As I've said earlier](../empathy-is-overrated), focusing on "empathy" ends up being one of these fallacies. How do you quantify something like that in context of a business? 
 
-Design, as a business function, has a significantly more objective role in that it has to contribute towards the larger goal. An example I find myself repeating often when teaching these concepts to interns is this one. 
+Design, as a business function, has a significantly more objective role to contribute towards the larger goal than it does in academic pursuits. 
+
+<!-- An example I find myself repeating often when teaching these concepts to interns is this one. 
 
 Let's pretend we're running a dry cleaning service. People come to your establishment, drop their fabrics, and get a token for pickup. This works fine, and eventually you're going to plateau. 
 
-So what can you do to break this ceiling? What additional value can you create for your customers that can boost your business?
+So what can you do to break this ceiling? What additional value can you create for your customers that can boost your business? -->
 
 ## The role of design is to help the business, not the other way around
 
@@ -62,3 +64,8 @@ The business does not exist to satisfy your urges as a designer. Your role as a 
 Another thing I see are designers thinking their role is somehow at a higher level than the lowly developer grunts. 
 
 ## Design alone will not save your business
+
+doesn't work if
+- it doesn't fit into business (budget, time)
+- it doesn't fit into tech constraints (feasibility, performance)
+- isn't what your customers want
