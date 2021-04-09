@@ -15,7 +15,7 @@ Business, marketing, design, and development all worked in harmony.
 
 Until the Design Simps attacked. 
 
-<!-- ![Pewds disapproves of simps](./simp.gif) -->
+![Pewds disapproves of simps](./simp.gif)
 
 ## Rise of the Design Simps
 
@@ -63,9 +63,24 @@ The business does not exist to satisfy your urges as a designer. Your role as a 
 
 Another thing I see are designers thinking their role is somehow at a higher level than the lowly developer grunts. 
 
+But here's the thing -- even if you didn't exist, developers would still be able to build a working application. It might not be as pretty or user-friendly, sure, but it wouldn't be the end of the world. 
+
+On the other hand, if developers didn't do their job, your best-laid UX plans and wank-worthy UI designs will never see the light of day. 🤷
+
+Both departments have to work together and collaborate for the final output to achieve the original vision.
+
 ## Design alone will not save your business
 
-doesn't work if
-- it doesn't fit into business (budget, time)
+If you're a decision maker, product manager, or marketing lead in a business, you need to understand this. Don't blindly buy into design. A lot of industry professionals, thanks to the online hype around it, have developed an unfortunate habit of overpromising what it can do. 
+
+For any problem you're trying to solve with design, it's important to understand what the underlying issue is. Is it the brand communication? Is it a usability issue? Is it a pricing issue? Is it a tech issue?
+
+Design can't happen in a vacuum. Let's leave design courses to do the infinite budget, infinite timeline hypothetical projects. In a real business scenario, a design project ultimately won't help if:
+- it doesn't fit into the business requirements or constraints (budget, time)
 - it doesn't fit into tech constraints (feasibility, performance)
 - isn't what your customers want
+
+## *sigh* End of rant
+What can I say, I tend to get worked-up about the topic. Because it's something that ultimately does more harm than good to the cause. 
+
+So let's try and be a bit more reasonable when we're selling design, yeah?

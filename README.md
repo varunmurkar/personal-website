@@ -1,10 +1,6 @@
- <p align="center">
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d940c754-11d9-4f87-a8ca-30e577c3ab79/deploy-status)](https://app.netlify.com/sites/varunmurkar/deploys)
- </p>
- 
-<br/>
-
 # Gatsby Starter Novela
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d940c754-11d9-4f87-a8ca-30e577c3ab79/deploy-status)](https://app.netlify.com/sites/varunmurkar/deploys)
 
 With minimal styling and maximum features — including multiple homepage layouts, built-in social sharing and dark mode — Novela makes it easy to start publishing beautiful articles and stories with Gatsby.
 
