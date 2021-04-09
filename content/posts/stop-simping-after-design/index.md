@@ -80,7 +80,7 @@ Design can't happen in a vacuum. Let's leave design courses to do the infinite b
 - it doesn't fit into tech constraints (feasibility, performance)
 - isn't what your customers want
 
-## *sigh* End of rant
+## *(sigh)* End of rant
 What can I say, I tend to get worked-up about the topic. Because it's something that ultimately does more harm than good to the cause. 
 
 So let's try and be a bit more reasonable when we're selling design, yeah?
