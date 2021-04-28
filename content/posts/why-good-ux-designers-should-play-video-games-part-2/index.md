@@ -17,7 +17,8 @@ Let's look at a few more of these nuggets.
 Remember Mortal Kombat? 4 simple actions - jump, crouch, kick, punch. As a beginner, you can mash the buttons enthusiastically enough to scrape a win.
 
 ![FATALITY!](https://media1.giphy.com/media/OCgTKYSVnf7iM/giphy.gif)
-> A game released in 1992 figured this out, so you really have no excuse.
+
+*A game released in 1992 figured this out, so you really have no excuse.*
 
 However, press those buttons in just the right sequence -- and you get a combo. A stylish move which deals more damage, and makes you look cool while you do it. That precise timing, and memorising all those combos comes with time you put into familiarising with the game. 
 
@@ -91,7 +92,7 @@ Uncharted, the Half Life series, and The Last of Us are notorious for not includ
 ![Guiding using light](./guiding-using-light.jpg)
 
 ![Guiding using composition](./guiding-using-composition.jpg)
->Courtesy of [Game Maker's Toolkit](https://www.youtube.com/watch?v=k70_jvVOcG0). Love the channel.
+*Courtesy of [Game Maker's Toolkit](https://www.youtube.com/watch?v=k70_jvVOcG0). Love the channel.*
 
 The games use things like contrast and lighting to give you subconcious clues for things to move towards, like some GPS Jedi.
 
